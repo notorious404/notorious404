@@ -1,127 +1,110 @@
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="assets/Banner.png"
-       alt="Shantanu Yadav — AI & Full-Stack Developer"
-       width="100%">
+  <img src="assets/Banner.png" width="100%" alt="Shantanu Yadav | AI & Full-Stack Developer" />
 </p>
 
-
-
-I build practical software that combines **AI, intelligent automation, and full-stack development** to solve real-world problems.
-
-Currently pursuing B.Tech in Computer Science Engineering with a specialization in Data Science and Artificial Intelligence at Galgotias University.
-
-- 🤖 Exploring LLM-powered applications, AI workflows, and document intelligence
-- 🛠️ Building AI tools, web applications, and developer-focused products
-- 📚 Strengthening my problem-solving and software engineering fundamentals
-- 🎯 Interested in AI Engineering, Full-Stack Development, and Software Engineering opportunities
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/notorious404">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="https://www.linkedin.com/in/shantanu-yadav-896a4b298">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yadu3904@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-6558F5?style=flat-square" alt="Focus: AI and Software Engineering" />
+  <img src="https://img.shields.io/badge/Building-Useful%20Things-0D9488?style=flat-square" alt="Building useful things" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🤖 [RowRocket — AI-Powered Document Intelligence](https://github.com/notorious404/RowRocket)
+I'm a Computer Science undergraduate specializing in **Data Science and Artificial Intelligence**, interested in engineering practical software at the intersection of AI, data, and full-stack development.
 
-Extract structured tables from PDFs and DOCX documents, including scanned files, with OCR and AI-assisted reconstruction.
+My work focuses on turning complex workflows into usable applications — from extracting and comparing information in documents to building AI-assisted developer tools.
 
-- 📄 Supports multi-page documents and complex tables
-- 🔍 Uses Tesseract OCR for scanned PDFs
-- 🧠 Integrates OpenAI for table reconstruction
-- 📊 Generates structured outputs and downloadable reports
+I enjoy working across the application stack, experimenting with LLM integrations, and improving the reliability and usability of the systems I build.
 
-**Tech:** Python · Streamlit · OpenAI API · Tesseract OCR · pdfplumber · ReportLab
-
-### 🛡️ [Sentinel AI — Intelligent Code Analyzer](https://github.com/notorious404/Sentinel-AI-)
-
-An AI-powered code analysis platform that helps developers identify bugs, security concerns, performance bottlenecks, and potential improvements.
-
-- 🔎 Analyzes code across multiple programming languages
-- ⚡ Provides AI-assisted code improvements
-- 📑 Generates downloadable code analysis reports
-- 🗄️ Combines a Node.js backend with MySQL
-
-**Tech:** JavaScript · Node.js · Express.js · MySQL · Gemini API
-
-### 📑 [DiffPDF — Compare PDFs, Spot Every Difference](https://github.com/notorious404/DiffPDF-Compare-PDFs.-Spot-Every-Difference)
-
-A document comparison application designed to make PDF differences easier to identify and review.
-
-- ↔️ Side-by-side PDF comparison
-- 🎯 Color-coded difference highlighting
-- 📜 Synchronized scrolling
-- 📄 Document analysis and report-generation capabilities
-
-**Tech:** Python · HTML · CSS · JavaScript · PDF Processing
+- **Currently exploring:** LLM-powered applications, AI workflows, and intelligent document processing
+- **Engineering interests:** Backend development, API integration, data processing, and application architecture
+- **Approach:** Build, test, understand the trade-offs, and iterate
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Selected Work
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" alt="Python, Java, JavaScript, C and C++"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express" alt="HTML, CSS, Bootstrap, Tailwind CSS, Node.js and Express"/>
-</p>
-
-### 🧠 AI, Data & Document Processing
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/OCR-00897B?style=flat-square" alt="OCR"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-### 🗄️ Databases & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,postman" alt="MySQL, MongoDB, Firebase, Git, GitHub, VS Code and Postman"/>
-</p>
-
-*My toolkit evolves as I build and experiment with new technologies.*
-
----
-
-## 📊 GitHub Overview
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · RowRocket</h3>
+      <p><b>AI-powered document intelligence</b></p>
+      Extract structured tables from PDFs and DOCX files, including scanned documents, with OCR and AI-assisted reconstruction.</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>OpenAI API</code> <code>Tesseract OCR</code></p>
+      <a href="https://github.com/notorious404/RowRocket">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Sentinel AI</h3>
+      <p><b>AI-assisted code analysis</b></p>
+      A developer-focused tool designed to analyze code and surface potential bugs, security concerns, and improvement opportunities.</p>
+      <p><code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>Gemini API</code></p>
+      <a href="https://github.com/notorious404/Sentinel-AI-">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · DiffPDF</h3>
+      <p><b>Visual document comparison</b></p>
+      Compare PDF documents through side-by-side views, color-coded differences, and synchronized scrolling.</p>
+      <p><code>Python</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/notorious404/DiffPDF-Compare-PDFs.-Spot-Every-Difference">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · PDF Table Comparison</h3>
+      <p><b>Structured data validation</b></p>
+      Compare extracted tables across documents, identify missing rows and mismatched values, and generate detailed reports.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>ReportLab</code></p>
+      <a href="https://github.com/notorious404/PDF-COMPARSION-APP-">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notorious404&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notorious404&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=notorious404&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <a href="https://github.com/notorious404?tab=repositories">View all repositories →</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Technical Toolkit
 
-I'm interested in building useful products, collaborating on interesting projects, and learning from other developers.
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, Java, JavaScript, C |
+| **AI & LLMs** | OpenAI API, Gemini API, prompt engineering, LLM workflow design |
+| **Backend & APIs** | Node.js, Express.js, REST APIs |
+| **Data & Documents** | Pandas, OCR, PDF processing, structured data extraction |
+| **Databases** | MySQL, MongoDB |
+| **Frontend** | HTML, CSS, JavaScript, Streamlit |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/shantanu-yadav-896a4b298)
-- 💻 [Explore my repositories](https://github.com/notorious404?tab=repositories)
-- 📧 [Email me](mailto:yadu3904@gmail.com)
+---
+
+## GitHub Activity
 
 <p align="center">
-  <i>"Build with curiosity. Learn by creating. Improve with every iteration."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=notorious404&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notorious404&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used languages" />
+</p>
+
+---
+
+## Beyond the Code
+
+I believe good engineering is more than making something work. It's about understanding the problem, making thoughtful technical decisions, and building something that people can actually use.
+
+I'm interested in collaborating on meaningful software projects, learning from experienced engineers, and contributing to products that solve real problems.
+
+<p align="center">
+  <a href="https://github.com/notorious404?tab=repositories">Explore my work</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/">Connect professionally</a>
+</p>
+
+<p align="center">
+  <sub>Designed with clarity. Built with curiosity. Improved through iteration.</sub>
 </p>
