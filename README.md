@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/Banner.png"
+       alt="Shantanu Yadav — AI & Full-Stack Developer"
+       width="100%">
+</p>
+
 # 👋 Hey, I'm Shantanu Yadav
 
 ### AI & Full-Stack Developer | Data Science & AI Undergraduate
