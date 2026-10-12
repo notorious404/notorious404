@@ -4,9 +4,7 @@
        width="100%">
 </p>
 
-# 👋 Hey, I'm Shantanu Yadav
 
-### AI & Full-Stack Developer | Data Science & AI Undergraduate
 
 I build practical software that combines **AI, intelligent automation, and full-stack development** to solve real-world problems.
 
