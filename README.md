@@ -4,6 +4,15 @@
        width="100%">
 </p>
 
+<!-- Subtle looping animation: animated developer focus line -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=8B7CFF&center=true&vCenter=true&width=850&lines=Building+AI-powered+applications;Engineering+intelligent+document+tools;Exploring+LLMs+and+full-stack+systems"
+    alt="Building AI-powered applications · Engineering intelligent document tools · Exploring LLMs and full-stack systems"
+  />
+</p>
+
+
 
 
 I build practical software that combines **AI, intelligent automation, and full-stack development** to solve real-world problems.
