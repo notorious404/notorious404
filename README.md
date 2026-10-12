@@ -64,23 +64,6 @@ A document comparison application designed to make PDF differences easier to ide
 
 **Tech:** Python · HTML · CSS · JavaScript · PDF Processing
 
-### 📊 [PDF Table Comparison App](https://github.com/notorious404/PDF-COMPARSION-APP-)
-
-Compare extracted tables from two PDF documents and identify missing data, mismatched values, and structural changes.
-
-- 🔍 Row-wise and column-wise comparisons
-- 🧩 Table normalization for more consistent comparisons
-- 📈 Multi-page table support
-- 📄 Detailed PDF mismatch reports
-
-**Tech:** Python · Streamlit · Pandas · Gemini API · ReportLab
-
-### 📂 [Table Extraction App](https://github.com/notorious404/TABLE-EXTRACTION-APP)
-
-A document-processing tool for extracting and reconstructing tables from PDF and DOCX files.
-
-**Tech:** Python · OCR · Document Processing · AI Integration
-
 ---
 
 ## 🧰 Tech Stack & Tools
